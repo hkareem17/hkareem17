@@ -7,6 +7,6 @@
 - ⚡ Fun fact: NA
 
 <!---
-hkareem17/hkareem17 is a ✨ pro ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+hkareem17 is a ✨ pro ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
